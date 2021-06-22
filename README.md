@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @tausif-fardin
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me - tausiffardin4@gmail.com
+### Hi there 👋, I'm Tausif
+#### I'm a CS student at American International University-Bangladesh(AIUB)
+I'm mostly interested in Mobile and Web development. Currently doing a thesis on Machine learning. I love coding and learning new techs.
+
+Skills: C++/JAVA/PYTHON/C#/HTML/CSS
 
 <!---
 tausif-fardin/tausif-fardin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
