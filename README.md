@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **tausiffardin4@gmail.com**
 
-- ⚡ Fun fact **I think I'm noob.**
 
 
 <h3 align="left">Languages and Tools:</h3>
