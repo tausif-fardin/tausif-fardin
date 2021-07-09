@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tausif</h1>
-<h3 align="center">A passionate programmer from Bangladesh. Currently doing BSC in Computer Science & Engineering at American International University-Bangladesh(AIUB).)</h3>
+<h3 align="center">A noob programmer from Bangladesh. Currently doing BSC in Computer Science & Engineering at American International University-Bangladesh(AIUB).)</h3>
 
 - 🌱 I’m currently learning **Data Structures, Algorithm, JS, Machine Learning**
 
 - 💬 Ask me about **C#, Java, Python**
 
 - 📫 How to reach me **tausiffardin4@gmail.com**
-
-- ⚡ Fun fact **I think I'm noob.**
 
 
 <h3 align="left">Languages and Tools:</h3>
