@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tausif</h1>
-<h3 align="center">A passionate programmer from Bangladesh. Currently doing BSC in Computer Science at American International University-Bangladesh(AIUB).)</h3>
+<h3 align="center">A passionate programmer from Bangladesh. Currently doing BSC in Computer Science & Engineering at American International University-Bangladesh(AIUB).)</h3>
 
 - 🌱 I’m currently learning **Data Structures, Algorithm, JS, Machine Learning**
 
