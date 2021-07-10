@@ -35,10 +35,9 @@
 
 <br/>
 
-<a href="https://github.com/tausif-fardin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tausif-fardin&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausif-fardin&theme=buefy&layout=compact" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausif-fardin&show_icons=true&locale=en" alt="tausif-fardin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tausif-fardin&" alt="tausif-fardin" /></p>
 
 <br/>
 
