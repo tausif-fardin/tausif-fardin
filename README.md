@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tausif-fardin&label=Profile%20views&color=0e75b6&style=flat" alt="tausif-fardin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tausif-fardin" alt="tausif-fardin" /></a> </p>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Engineering at American International University-Bangladesh.
