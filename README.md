@@ -42,10 +42,3 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tausif-fardin-313a45174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:tausiffardin4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tausiffardin4@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-⭐️ From [tausif-fardin](https://github.com/tausif-fardin)
