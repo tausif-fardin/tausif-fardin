@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tausif-fardin&label=Profile%20views&color=0e75b6&style=flat" alt="tausif-fardin" /> </p>
 
 
-- 🤔 &nbsp; Learning NodeJs & React.
-- 🎓 &nbsp; Working as a Software Engineer.
+- 🤔 &nbsp; Working with NodeJs & React.
 - 🌱 &nbsp; Learning more about Machine learning, Blockchain and Web Development.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
