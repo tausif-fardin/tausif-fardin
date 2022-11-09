@@ -5,7 +5,7 @@
 
 
 - 🤔 &nbsp; Learning NodeJs & React.
-- 🎓 &nbsp; Studying Computer Science and Engineering at American International University-Bangladesh.
+- 🎓 &nbsp; Working as a Software Engineer.
 - 🌱 &nbsp; Learning more about Machine learning, Blockchain and Web Development.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
