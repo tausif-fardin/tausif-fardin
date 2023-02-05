@@ -1,4 +1,4 @@
-<h1 align="center">| Konnichiwa | Hi | Ki Obostha |</h1>
+<h1 align="center">| Ki Obostha | Hi | konnichiwa |</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,nodejs,nextjs,react,tailwind" />
