@@ -1,4 +1,4 @@
-<h1 align="center">Happy New Year 🎉</h1>
+<h1 align="center">Hi, It's Tausif 👋</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,nextjs,react,tailwind" />
