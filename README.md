@@ -6,3 +6,4 @@
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausif-fardin&show_icons=true&locale=en" alt="tausif-fardin" /></p>
+quick update
