@@ -4,5 +4,5 @@
     <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,nextjs,react,prisma,tailwind,mysql" />
   </a>
 </p>
-Bleh
+~Bleh
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausif-fardin&show_icons=true&locale=en" alt="tausif-fardin" /></p>
