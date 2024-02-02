@@ -1,4 +1,4 @@
-<h2 align="center">Hi, It's Tausif 👋</h2>
+<h2 align="center">Hola, It's Tausif 👋</h2>
 <h1 align="center">Lazy Developer</h1>
 <p align="center">
   <a href="https://skillicons.dev">
