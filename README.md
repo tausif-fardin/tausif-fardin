@@ -1,12 +1,15 @@
 <h2 align="center">🌟 Hola, I'm Tausif! 🚀</h2>
+
 <p align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,py,ts,nextjs,react,prisma,tailwind,mysql, mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongo,py,ts,nextjs,react,prisma,tailwind,mysql" alt="Tech Stack" />
  </a>
 </p>
 
 <p align="center">
- <a href="https://tausifsodyssey.vercel.app/" style="font-size: 20px; color: #ff69b4; text-decoration: none;"> Click to know more about me </a>
+ <a href="https://tausifsodyssey.vercel.app/" style="font-size: 20px; color: #ff69b4; text-decoration: none;">Stalk here👈</a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausif-fardin&show_icons=true&locale=en" alt="tausif-fardin's GitHub Stats" /></p>
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tausif-fardin&theme=radical" alt="Tausif's Profile Summary" />
+</p>
