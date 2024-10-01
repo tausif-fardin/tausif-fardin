@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tausif-fardin&theme=radical" alt="Tausif's Profile Summary" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tausif-fardin&theme=github_dark" alt="Tausif's Profile Summary" />
 </p>
