@@ -2,7 +2,7 @@
 
 I'm a backend developer currently working with Node.js and MongoDB.
 
-### Tech Stack[
+### Tech Stack
 Node.js, Express.js, TypeScript, Next.js, MongoDB, MySQL
 
 ### GitHub Stats
