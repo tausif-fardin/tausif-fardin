@@ -1,11 +1,17 @@
-# 👋 Hey, I'm Tausif!
+# 👋 Hi, I'm Tausif
 
-Backend dev crafting with **NestJS** & **PostgreSQL**. Roots in **Node.js**, **Express**, & **MongoDB**. Frontend flair with **Next.js** & **React**.
+**Backend Developer** passionate about building scalable and efficient systems.
 
-Currently diving into **ML** & **DL**—working on an **image processing** research paper.
+### 💻 **Tech Stack**
+- **Backend:** NestJS, Node.js, Express, PostgreSQL, MongoDB, Redis, WebSocket
+- **Frontend:** React, Next.js
+- **DevOps:** Docker, DigitalOcean VPS, Spaces
+- **Tools:** Jira, Git, VS Code
 
-### Tech Stack  
-NestJS | Express | MongoDB | PostgreSQL | Next.js | React | Redis
+### 🔬 **Currently Exploring**
+- Machine Learning (ML) & Deep Learning (DL) for Image Processing
 
-### GitHub Stats  
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tausif-fardin&theme=default)
+### 📫 **Let's Connect!**
+- [LinkedIn](https://www.linkedin.com/in/tausif-fardin/) | [Portfolio](https://tausifsodyssey.vercel.app) | [Email](mailto:tausif.fardin@outlook.com)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tausif-fardin&theme=default)
