@@ -3,7 +3,7 @@
 **Backend Developer** passionate about building scalable and efficient systems.
 
 ### 💻 **Tech Stack**
-- **Backend:** NestJS, Node.js, Express, PostgreSQL, MongoDB, Redis, WebSocket
+- **Backend:** NestJS, Node.js, Express.js, PostgreSQL, MongoDB, Redis, WebSocket
 - **Frontend:** React, Next.js
 - **DevOps:** Docker, DigitalOcean VPS, Spaces
 - **Tools:** Jira, Git, VS Code
