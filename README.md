@@ -1,34 +1,38 @@
-# Hi there, I'm Tausif Fardin Sinha 👋
+<div align="center">
 
-**Backend Engineer & System Architect | High-Throughput SaaS & AI-Integrated Apps**
+# Hi, I'm Tausif 👋
 
-I am a software engineer with 3+ years of experience designing scalable relational and NoSQL databases, managing multi-platform API integrations, and applying machine learning workflows to enhance enterprise products. I specialize in the Node.js ecosystem (NestJS, Express) and building resilient systems that handle massive scale gracefully.
+**Backend Engineer** building high-throughput systems and AI-integrated apps
 
-## 🚀 What I Do
-- **System Architecture:** Spearheading backend architectures for multi-tenant SaaS platforms, e-commerce ecosystems, and heavy media-processing pipelines.
-- **Performance Optimization:** Tuning databases and caching layers. (e.g., Slashing MongoDB query response times by 90% and reducing cache outage fallback times from 12.3s to 56ms).
-- **AI & ML Integration:** Building RAG (Retrieval-Augmented Generation) pipelines, Computer Vision (OCR) identity verification systems, and Agentic Workflows.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-tf.sinha%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tf.sinha@gmail.com)
 
-## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, Node.js
-- **Backend & Frameworks:** NestJS, Express.js, WebSockets (Socket.io)
-- **Databases & ORMs:** PostgreSQL, MongoDB, Redis, TypeORM
-- **Cloud & DevOps:** DigitalOcean, Hetzner, Hostinger, Docker, Nginx, PM2, Cloudflare, CI/CD
-- **AI & Machine Learning:** RAG Systems, NLP, Deep Learning, Claude Code, GitHub Copilot
-
-## 📈 Featured Engineering Achievements
-- **High Availability:** Re-engineered a POS payments backend for graceful degradation, verifying system readiness at 40x projected peak load with zero ledger drift.
-- **Scalable Infrastructure:** Architected a high-volume, Redis-backed queued bulk email delivery system.
-- **Automation & Integrations:** Built automated domain provisioning via Cloudflare/Namecheap APIs and integrated omnichannel communications via WhatsApp Cloud API.
-
-## 🧠 Academic Publications
-- **BIM 2025:** *Enhancing Image Captioning with a Multi-Encoder Ensemble Framework*
-- **ACM Digital Library (Aug 2022):** *Stock Market Comparison and Analysis in Preceding and Following Pandemic in Bangladesh using Machine Learning Approaches*
-
-## 📫 Let's Connect
-- **LinkedIn:** [tausif-fardin](https://www.linkedin.com/in/tausif-fardin/)
-- **Portfolio:** [tausifsodyssey.vercel.app](https://tausifsodyssey.vercel.app)
-- **Email:** [tf.sinha@gmail.com](mailto:tf.sinha@gmail.com) 
+</div>
 
 ---
-⭐️ *Building robust systems and exploring the intersection of distributed architecture and Deep Learning.*
+
+### What I do
+
+Backend architecture for SaaS platforms and e-commerce systems - NestJS, distributed queues, database design at scale, and applying AI/ML (RAG, computer vision, agentic workflows) to product problems.
+
+Currently @ **ZAAG SYSTEMS**, shipping multi-tenant SaaS infrastructure and payment systems that survive 40x peak load.
+
+### Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Currently exploring
+
+RAG systems, agentic workflows, and squeezing latency out of production queues.
+
+---
+<div align="center">
+<sub>Dhaka, Bangladesh 🇧🇩</sub>
+</div>
